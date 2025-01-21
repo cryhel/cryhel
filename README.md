@@ -1,6 +1,6 @@
 # Hi there, I'm cryhel! 🚀  
 
-I’m a blockchain enthusiast, validator, and part-time server whisperer. With over 3 years of experience, I specialize in keeping nodes happy, healthy, and running like clockwork. My mission? To support decentralization and make sure the blockchain never skips a beat.  
+I’m a blockchain enthusiast, validator, and part-time server whisperer. With over 1 years of experience, I specialize in keeping nodes happy, healthy, and running like clockwork. My mission? To support decentralization and make sure the blockchain never skips a beat.  
 
 ## What I Do:  
 - ⚙️ Spin up nodes in ecosystems like **Cosmos**, **Polkadot**, and **Ethereum** faster than you can say "proof-of-stake."  
